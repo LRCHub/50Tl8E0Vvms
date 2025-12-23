@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Murdergram Deux",
+  "base_artist": "LL COOL J",
+  "createdAt": "2025-12-23T14:13:14.920606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Murdergram Deux (feat. Eminem)",
+      "artist": "LL COOL J",
+      "has_synced": true,
+      "path": "select/01_Murdergram_Deux_(feat._Eminem)_LL_COOL_J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Murdergram Deux (feat. Eminem)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_Murdergram_Deux_(feat._Eminem)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Murdergram Deux",
+      "artist": "LL COOL J;Eminem",
+      "has_synced": true,
+      "path": "select/03_Murdergram_Deux_LL_COOL_J;Eminem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Murdergram Deux",
+      "artist": "LL Cool J feat. Eminem",
+      "has_synced": true,
+      "path": "select/04_Murdergram_Deux_LL_Cool_J_feat._Eminem.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Murdergram Deux",
+      "artist": "LL COOL J",
+      "has_synced": false,
+      "path": "select/05_Murdergram_Deux_LL_COOL_J.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Murdergram Deux",
+      "artist": "LL COOL J",
+      "has_synced": true,
+      "path": "select/06_Murdergram_Deux_LL_COOL_J.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Murdergram Deux (feat. Eminem)",
+      "artist": "LL COOL J",
+      "has_synced": true,
+      "path": "select/07_Murdergram_Deux_(feat._Eminem)_LL_COOL_J.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Eminem - Murdergram Deux (feat. LL Cool J) [NEW TDOSS]",
+      "artist": "[aktivist]",
+      "has_synced": true,
+      "path": "select/08_Eminem_-_Murdergram_Deux_(feat._LL_Cool_J)_[NEW_TDOSS]_[aktivist].lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Murdergram Deux",
+      "artist": "LL COOL J, Eminem",
+      "has_synced": true,
+      "path": "select/09_Murdergram_Deux_LL_COOL_J,_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Murdergram Deux (feat. Eminem)",
+      "artist": "LL COOL J, Eminem",
+      "has_synced": true,
+      "path": "select/10_Murdergram_Deux_(feat._Eminem)_LL_COOL_J,_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Murdergram Deux (feat. Eminem)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/11_Murdergram_Deux_(feat._Eminem)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Murdergram Deux feat. Eminem",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/12_Murdergram_Deux_feat._Eminem_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Murdergram Deux (feat",
+      "artist": "LL COOL J, Eminem",
+      "has_synced": true,
+      "path": "select/13_Murdergram_Deux_(feat_LL_COOL_J,_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "LL COOL J - Murdergram Deux (Audio) ft. Eminem",
+      "artist": "LL COOL J",
+      "has_synced": true,
+      "path": "select/14_LL_COOL_J_-_Murdergram_Deux_(Audio)_ft._Eminem_LL_COOL_J.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Murdergram Deux",
+      "artist": "LL Cool J feat. Eminem",
+      "has_synced": true,
+      "path": "select/15_Murdergram_Deux_LL_Cool_J_feat._Eminem.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Murdergram Deux (feat. Eminem)",
+      "artist": "LL COOL J",
+      "has_synced": true,
+      "path": "select/16_Murdergram_Deux_(feat._Eminem)_LL_COOL_J.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Murdergram Deux (feat. Eminem)",
+      "artist": "LL COOL J, Eminem",
+      "has_synced": false,
+      "path": "select/pl_01_Murdergram_Deux_(feat._Eminem)_LL_COOL_J,_Eminem.txt"
+    }
+  ]
+}
